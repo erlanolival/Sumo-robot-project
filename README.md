@@ -2,7 +2,7 @@
 
 #Description
 Project of an autonomous sumo robot using ultrasound sensor for detecting the enemy and reflective optical sensor to detect
-the edge of the arena
+the edge of the arena. For controlling the robot, it was used the PIC 16F628A.
 
 Ultrasound Sensor: HC-SR04
 Reflective Optical Sensor: QRE1113GR
